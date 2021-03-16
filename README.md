@@ -1,2 +1,2 @@
 # Automated-Blog-Post-For-Cache-9
-Creates an automatic post for https://cache9.in/ using Selenium WebDriver.
+Easy to post application for https://cache9.in/ using Selenium WebDriver.
